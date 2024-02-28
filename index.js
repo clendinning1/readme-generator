@@ -2,12 +2,14 @@
 // 1. make sure the inquirer is linked and working
 // 2. write the questions
 // 3. make sure the questions read prompts
-// 4. have the prompts create a file corresponding to the inputs
-// 5. make the table of contents link to each section
-// 6. license badge stuff?
-// 7. grab a sample README (made by the project) for the readme (of the project) and/or submission
-// 8. record video of functionality
-// 9. put the video in the readme (of the project) and/or submission?
+// 4. github & email inputs (* WHEN I enter my GitHub username THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile) / (* WHEN I enter my email address THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions)
+// 5. have the prompts create a file corresponding to the inputs
+// 6. make the table of contents link to each section
+// 7. license badge stuff? (* WHEN I choose a license for my application from a list of options THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under)
+// 8. grab a sample README (made by the project) for the readme (of the project) and/or submission
+// 9. record video of functionality (instructions in REQS.md)
+// 10. put the video in the readme (of the project) and/or submission?
+// 11. write the rest of the readme (of the project)
 
 
 
@@ -26,8 +28,8 @@ const questions = [
     // 5. Give Contribution guidelines:
     // 6. Test instructions
     // 7. Enter your GH:
-        // email:
-        // instructions on how to reach you:
+    // email:
+    // instructions on how to reach you:
 ];
 
 // TODO: Create a function to write README file
