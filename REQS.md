@@ -44,15 +44,11 @@ THEN this is added to the section of the README entitled Questions, with instruc
 * WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+### VIDEO
+
 * Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 
 * Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
-
-* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
-
-### Walkthrough Video: 27%
-
-* A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
 
 * The walkthrough video must demonstrate how a user would invoke the application from the command line.
 
@@ -60,11 +56,16 @@ THEN I am taken to the corresponding section of the README
 
 * The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
 
+
+## OTHER REQUIREMENTS
+
+* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
+
 * Repository contains a high-quality README with description and a link to walkthrough video.
 
-## Review
+* A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
 
-You are required to submit the following for review:
+### Required in submission:
 
 * A walkthrough video demonstrating the functionality of the application.
 
