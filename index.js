@@ -12,10 +12,42 @@
 // 11. write the rest of the readme (of the project)
 
 
+var inquirer = require('inquirer');
+inquirer
+    .prompt([
+        // {
+        //     type: 'input',
+        //     message: 'What is your user name?',
+        //     name: 'username',
+        // },
+        // {
+        //     type: 'password',
+        //     message: 'What is your password?',
+        //     name: 'password',
+        // },
+        // {
+        //     type: 'password',
+        //     message: 'Re-enter password to confirm:',
+        //     name: 'confirm',
+        // },
+    ])
+    .then((answers) => {
+        // Use user feedback for... whatever!!
+    })
+    // .then((response) =>
+    //     response.confirm === response.password
+    //         ? console.log('Success!')
+    //         : console.log('You forgot your password already?!')
+    // );
+    // .catch((error) => {
+    //     if (error.isTtyError) {
+    //         // Prompt couldn't be rendered in the current environment
+    //     } else {
+    //         // Something else went wrong
+    //     }
+    // })
+    ;
 
-
-// TODO: Include packages needed for this application
-// so, just the inquirer? how do i do that?
 
 // TODO: Create an array of questions for user input
 const questions = [
