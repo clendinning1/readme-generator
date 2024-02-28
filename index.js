@@ -1,3 +1,17 @@
+// my todo
+// 1. make sure the inquirer is linked and working
+// 2. write the questions
+// 3. make sure the questions read prompts
+// 4. have the prompts create a file corresponding to the inputs
+// 5. make the table of contents link to each section
+// 6. license badge stuff?
+// 7. grab a sample README (made by the project) for the readme (of the project) and/or submission
+// 8. record video of functionality
+// 9. put the video in the readme (of the project) and/or submission?
+
+
+
+
 // TODO: Include packages needed for this application
 // so, just the inquirer? how do i do that?
 
